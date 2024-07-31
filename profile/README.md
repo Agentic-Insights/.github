@@ -2,9 +2,9 @@
 
 Welcome to the Agentic Insights AI Tutorials repository! We're a boutique AI Engineering consultancy specializing in custom GPTs, intelligent agents, and AI applications. This repository hosts our series of tutorials designed to help you navigate the exciting world of AI, with a focus on LangChain and agentic AI.
 
-## Current Content: LangChain Labs 101
+## Current Content: [LangChain Labs 101](https://github.com/Agentic-Insights/langchain-labs)
 
-Our inaugural tutorial series, "LangChain Labs 101," provides a professional introduction to modern LangChain development, emphasizing agentic AI applications. The tutorials cover:
+Our inaugural tutorial series, "[LangChain Labs 101](https://github.com/Agentic-Insights/langchain-labs)," provides a professional introduction to modern LangChain development, emphasizing agentic AI applications. The tutorials cover:
 
 - LangChain basics and environment setup
 - Working with prompt templates and RunnableSequence
