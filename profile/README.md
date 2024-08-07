@@ -2,10 +2,15 @@
 
 Welcome to the Agentic Insights AI Tutorials repository! We're a boutique AI Engineering consultancy specializing in custom GPTs, intelligent agents, and AI applications. This repository hosts our series of tutorials designed to help you navigate the exciting world of AI, with a focus on LangChain and agentic AI.
 
-## Current Content: [LangChain Labs 101](https://github.com/Agentic-Insights/langchain-labs)
+## Featured Content
+8/2024  : [Semantic Kernel 101](https://github.com/Agentic-Insights/sk-python-labs)
+
+Semantic Kernel is made by Microsoft. As of this writing it is at version 1.5.0 for the python library.
+[Comparing LangChain, Semantic Kernel, and AutoGen](https://medium.com/data-science-at-microsoft/harnessing-the-power-of-large-language-models-a-comparative-overview-of-langchain-semantic-c21f5c19f93e)
+
+7/2024: : [LangChain Labs 101](https://github.com/Agentic-Insights/langchain-labs)
 
 Our inaugural tutorial series, "[LangChain Labs 101](https://github.com/Agentic-Insights/langchain-labs)," provides a professional introduction to modern LangChain development, emphasizing agentic AI applications. The tutorials cover:
-
 - LangChain basics and environment setup
 - Working with prompt templates and RunnableSequence
 - Creating custom tools and agents
