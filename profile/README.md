@@ -6,7 +6,7 @@ Welcome to Agentic Insights, a boutique AI Engineering consultancy at the forefr
 
 We're thrilled to introduce the Codebase Context Specification (CCS), a groundbreaking approach to enhancing AI-assisted development!
 
-> "It's like a cross between README file meets a SYSTEM prompt"
+> "It's like a cross between README and a SYSTEM prompt"
 
 CCS provides a standardized method for embedding rich contextual information within codebases, improving understanding for both AI models and human developers.
 
