@@ -11,7 +11,7 @@ We're thrilled to introduce the Codebase Context Specification (CCS), a groundbr
 CCS provides a standardized method for embedding rich contextual information within codebases, improving understanding for both AI models and human developers.
 
 - 📜 [Specification on GitHub](https://github.com/Agentic-Insights/codebase-context-spec)
-- 📦 [NPM Package: codebase-context-lint](https://www.npmjs.com/package/codebase-context-lint)
+- 📦 [NPM Package: dotcontext](https://www.npmjs.com/package/dotcontext)
 - 📰 [Detailed Article on Substack](https://agenticinsights.substack.com/p/codebase-context-specification-rfc)
 - 🎥 [AI Journalist Coverage on YouTube](https://www.youtube.com/watch?v=rcMwYL2Wa8g)
 
