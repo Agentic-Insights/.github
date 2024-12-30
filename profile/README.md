@@ -2,7 +2,7 @@
 
 Welcome to Agentic Insights, a boutique AI Engineering consultancy at the forefront of custom GPTs, intelligent agents, and cutting-edge AI applications. Our GitHub repository is your gateway to expert tutorials, innovative specifications, and resources in the rapidly evolving world of AI.
 
-## 🚀 Featured: Codebase Context Specification (CCS) 1.0.0-RFC
+## 🚀 Featured: Codebase Context Specification (CCS) 1.1.0-RFC
 
 We're thrilled to introduce the Codebase Context Specification (CCS), a groundbreaking approach to enhancing AI-assisted development!
 
