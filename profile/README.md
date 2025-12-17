@@ -31,4 +31,4 @@ Covers runtime integration, memory (STM/LTM), Gateway MCP tools, and CLI workflo
 
 ---
 
-*AWS Certified AI Practitioner | Austin LangChain Community*
+*AWS Certified AI Practitioner*
