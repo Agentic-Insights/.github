@@ -4,16 +4,19 @@
 
 ## Open Source
 
-### [aws-skills-cc](https://github.com/Agentic-Insights/aws-skills-cc)
+### [Claude Plugins Marketplace](https://github.com/Agentic-Insights/claude-plugins-marketplace)
 
-Claude Code plugin for deploying LangGraph agents on AWS Bedrock AgentCore.
+Professional Claude Code plugins for AI engineering - production-ready patterns from real consulting engagements.
 
 ```bash
-/plugin marketplace add Agentic-Insights/aws-skills-cc
-/plugin install aws-agentcore-langgraph@aws-skills-cc
+/plugin marketplace add Agentic-Insights/claude-plugins-marketplace
+/plugin install aws-agentcore-langgraph@agentic-insights
 ```
 
-Covers runtime integration, memory (STM/LTM), Gateway MCP tools, and CLI workflows. Built from real deployment experience - the patterns that actually work in production.
+**Current Plugins:**
+- **aws-agentcore-langgraph**: Deploy LangGraph agents on AWS Bedrock AgentCore with runtime wrapping, memory (STM/LTM), Gateway MCP tools, and CLI workflows
+
+Built from real deployment experience - the patterns that actually work in production.
 
 ## Services
 
